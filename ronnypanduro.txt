@@ -1,0 +1,3 @@
+Que es loguiado?
+Administrador de credenciales de windows
+Cuando es un proyecto hit esta la ubicación del repositorio y esta la rama
